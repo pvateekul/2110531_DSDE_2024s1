@@ -4,7 +4,7 @@
 
 ## Syllabus:
 
-[Syllabus](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_1/56266/materials/DataScience_Syllabus_2024s1-1832-17227922729856.pdf)
+[Syllabus](slide/DataScience_Syllabus_2024s1_v2.pdf)
 
 ## Code:
 
