@@ -84,11 +84,13 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 2-3. Model Monitoring with Weight and Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/2_3_Image_classification_Animal_EfficientNetB1_WandB.ipynb)
 
-3-1. Diffusion on Text-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/3_1_diffusion_model_text_to_image.ipynb)
+3-1. Stable_Diffusion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1shlp0S2Kjh14TsFNU9P_sjQBPkFWML44/view?usp=sharing)
 
-3-2. Diffusion on Image-to-Image: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/3_2_diffusion_model_image_to_image.ipynb)
+3-2. Controlnet: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1ss84x-uRtDx32ZyKUoVMMISyAtUrY0uP/view?usp=sharing)
 
-3-3. Fine-tune diffusion model: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/3_3_diffusion_model_training.ipynb)
+3-3. Dreambooth: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1qE78qIHMy9hT6saabSavkY5sIrEmn1tf/view?usp=sharing)
+
+3-4. Textual_Inversion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1rLPmi5XIi_31Zfy6Q40rAXedQzsws4KH/view?usp=sharing)
 
 4-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
 
