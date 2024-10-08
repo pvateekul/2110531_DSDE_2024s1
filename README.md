@@ -109,3 +109,19 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 1. Simple Example [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week06_Architecture_and_Storage/Simple_Example.ipynb)
    
 2. Redis Assignment [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week06_Architecture_and_Storage/Redis_Assignment.ipynb)
+
+
+### Week07: Data Extraction
+
+1. Basic Web Scraping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week07_DataExtraction/1_basic_web_scraping.ipynb)
+
+2. Wikipedia Scaping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week07_DataExtraction/2_wiki_scraping_example.ipynb)
+
+3. REST API Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week07_DataExtraction/3_REST_API_extraction.ipynb)
+
+4. Selenium [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week07_DataExtraction/4_Selenium.ipynb)
+
+5. Excel Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week07_DataExtraction/5_excel_extraction.ipynb)
+
+6. PDF Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week07_DataExtraction/6_pdf_extraction.ipynb)
+
