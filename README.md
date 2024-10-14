@@ -125,3 +125,17 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 6. PDF Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week07_DataExtraction/6_pdf_extraction.ipynb)
 
+### Week08: Data Ingestion
+
+The Kafka sample codes cannot be openned in Colab as it requires connection to local kafka server. See more details in [week08 code section](https://github.com/pvateekul/2110531_DSDE_2024s1/tree/main/code/Week08_DataIngestion).
+
+### Week09: Spark
+
+1. Basic Spark [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week09_Spark/1_Basic_Spark.ipynb)
+
+2. Spark SQL [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week09_Spark/2_Spark_SQL.ipynb)
+
+3. Spark ML [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week09_Spark/3_Spark_ML.ipynb)
+
+4. Spark Assignment [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week09_Spark/Assignment.ipynb)
+
