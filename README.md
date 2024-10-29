@@ -139,3 +139,7 @@ The Kafka sample codes cannot be openned in Colab as it requires connection to l
 
 4. Spark Assignment [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week09_Spark/Assignment.ipynb)
 
+### Week10: Ops Stars
+
+The airflow and fastapi sample codes cannot be openned in Colab as it requires local airflow and fastapi installation. See more details in [Week10 Ops Stars](https://github.com/pvateekul/2110531_DSDE_2024s1/tree/main/code/Week10_OpsStars).
+
