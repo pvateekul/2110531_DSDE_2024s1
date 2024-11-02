@@ -143,3 +143,5 @@ The Kafka sample codes cannot be openned in Colab as it requires connection to l
 
 The airflow and fastapi sample codes cannot be openned in Colab as it requires local airflow and fastapi installation. See more details in [Week10 Ops Stars](https://github.com/pvateekul/2110531_DSDE_2024s1/tree/main/code/Week10_OpsStars).
 
+### Week11: Data Visualization
+
