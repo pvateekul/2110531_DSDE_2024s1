@@ -102,8 +102,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 5-3. Langchain tutorial: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/5_3_Langchain_tutorial_2024.ipynb)
 
-5-4. Finetuning GPT-4o: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)]
-(https://colab.research.google.com/drive/12vaXB0KqhXl2PRMN95FMiYAoltduSrkM?usp=sharing)
+5-4. Finetuning GPT-4o: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/drive/12vaXB0KqhXl2PRMN95FMiYAoltduSrkM?usp=sharing)
 
 ### Week06: Big Data Architecture and Data Storage
 
