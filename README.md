@@ -94,7 +94,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 4-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
 
-4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/4_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
+4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1h5vQutv7wiZhH6hlRVWU_v_eY-Nq9wAE?usp=sharing)
 
 5-1. LLMs API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/5_1_LLM_API.ipynb)
 
