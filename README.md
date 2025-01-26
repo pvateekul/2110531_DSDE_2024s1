@@ -96,6 +96,8 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211053
 
 4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1h5vQutv7wiZhH6hlRVWU_v_eY-Nq9wAE?usp=sharing)
 
+4-3. Text Classification (Phayathaibert): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1-5nTIXHSiOEr4OnIEHq7KQFuzsfakOgn?usp=sharing)
+
 5-1. LLMs API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/5_1_LLM_API.ipynb)
 
 5-2. OpenAI ChatGPT (Simulated Toyota data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/5_2_OpenAI_ChatGPT_Toyota.ipynb)
